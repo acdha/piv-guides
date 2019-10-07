@@ -19,6 +19,11 @@ editbranch: staging
 theme: uswds-jekyll
 search_site_handle: idmprod
 
+# Lines below recommended by Search.gov team to allow indexing.
+url: "https://piv.idmanagement.gov"
+plugins:
+  - jekyll-sitemap
+
 # Links
 # List links that you would like to appear on the top navigation bar here
 navbar:

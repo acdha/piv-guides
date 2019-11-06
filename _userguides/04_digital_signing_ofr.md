@@ -18,7 +18,7 @@ Use MS Word 2010 or later, and submit only *.docx* files. Older versions of MS W
 
 If multiple agencies submit a document for publication, they must submit one document that is signed by a representative from every issuing agency (DDH, 1.6). If one or more agencies are unable or unwilling to digitally sign, then the document must be submitted via the conventional paper-and-disk procedure (DDH, 6.3),
 
-{% include alert-info.html content="The OFR web portal accepts only invisible digital signatures on MS Word documents. For instructions, see [Add an Invisible Digital Signature]({{site.baseurl}}/userguides/signworddoc/)." %}
+{% include alert-info.html content="The OFR web portal accepts only invisible digital signatures on MS Word documents. For instructions, see <a href=\"../signworddoc\" target=\"_blank\">Add an Invisible Digital Signature</a>." %}
 
 ## Submit a Jointly-Issued Document to OFR
 
